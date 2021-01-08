@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as a .NET software developer
-- 🌱 I’m currently learning .NET 5, Blazor and Kubernetes
+- 🌱 I’m currently learning .NET 5, Blazor, OpenID and Kubernetes
 - 👯 I’m looking to collaborate on NET opensource projects
 - ⚡ Fun fact: I'm a cyclist, runner and photographer on my free time
 
