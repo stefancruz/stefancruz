@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working as a .NET software developer
+- 🌱 I’m currently learning .NET 5, Blazor and Kubernetes
+- 👯 I’m looking to collaborate on NET opensource projects
+- ⚡ Fun fact: I'm a cyclist, runner and photographer on my free time
+
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aldaircruz&show_icons=true&theme=dark" alt="aldaircruz" />
 <div/>
