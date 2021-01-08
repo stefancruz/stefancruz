@@ -1,8 +1,17 @@
 ### Hi there 👋
 
-<!--
-**aldaircruz/aldaircruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aldaircruz&show_icons=true&theme=dark" alt="aldaircruz" />
+<div/>
+<br />
+  
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldaircruz&layout=compact&hide=html&theme=dark" alt="aldaircruz" />
+<div/>
+<br />
 
+![Visitors since 08 Jan 2021](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=aldaircruz&repo=aldaircruz&countColor=%237B1E7A)
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
