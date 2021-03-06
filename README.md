@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working as a .NET and Node.js software developer
-- 🌱 I’m currently learning about Azure, .NET 5, Blazor, OpenID, Terraform and Kubernetes
-- 👯 I’m looking to collaborate on .NET and Node.js opensource projects
+- 🌱 Learning about Azure, .NET 5, Blazor, OpenID, Terraform and Kubernetes
+- 👯 Looking to collaborate on .NET and Node.js opensource projects
 - ⚡ Fun fact: I'm a cyclist, runner and photographer on my free time
 
 <div>
